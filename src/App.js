@@ -3,6 +3,7 @@ import ComA from './pages/comA/index.js'
 import ComB from './pages/comB/index.js'
 //provider包裹组件，统一维护store
 import { Provider } from 'react-redux'
+import './pages/test3.js'
 
 function App() {
   return (
